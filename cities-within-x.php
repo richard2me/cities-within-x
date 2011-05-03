@@ -16,6 +16,9 @@ called "zip_coords", which contains these columns:
 This should do the trick:
 http://www.populardata.com/zipcode_database.html
 
+IMPORTANT: Understand that this example is simplified, not secure.
+Understand SQL Injection Vulnerabilities before implementing this.
+
 */
 
 $zip = 94550; // "find nearby this zip code"

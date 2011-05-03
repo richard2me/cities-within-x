@@ -1,11 +1,9 @@
 <?php
 
 /*
+
 Cities Within X
 Find zip codes within x miles of a given zip code
-
-IMPORTANT: PREVENT SQL INJECTION
-THIS SCRIPT IS BUILT TO BE EASY TO UNDERSTAND, NOT SECURE
 
 This script assumes that you have an SQL table
 called "zip_coords", which contains these columns:

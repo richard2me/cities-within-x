@@ -10,8 +10,13 @@ THIS SCRIPT IS BUILT TO BE EASY TO UNDERSTAND, NOT SECURE
 This script assumes that you have an SQL table
 called "zip_coords", which contains these columns:
 - zipcode
+- city
+- state
 - latitude
 - longitude
+
+This should do the trick:
+http://www.populardata.com/zipcode_database.html
 
 */
 
